@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Aftercare_prediction
+message: >-
+  Code used to predict discharge location for patients from
+  the orthopaedic department, using transfer learning, most
+  notable Side-tuning.
+type: software
+authors:
+  - given-names: Nathan
+    family-names: Pater
+    name-suffix: de
+    email: nathandpater@gmail.com
